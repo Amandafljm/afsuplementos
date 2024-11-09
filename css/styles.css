@@ -10979,7 +10979,7 @@ html {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-  width: 40rem;
+  width: 30rem;
 }
 
 @media (min-width: 992px) {
@@ -10994,6 +10994,7 @@ html {
   .masthead .masthead-subheading {
     font-size: 1.5rem;
   }
+
 }
 .portfolio .portfolio-item {
   cursor: pointer;
