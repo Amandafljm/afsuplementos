@@ -10982,6 +10982,12 @@ html {
   width: 30rem;
 }
 
+@media (max-width: 500px) {
+  .masthead .masthead-avatar {
+    width: 15rem;
+  }
+}
+
 @media (min-width: 992px) {
   .masthead {
     padding-top: calc(6rem + 104px);
